@@ -1,0 +1,38 @@
+{
+    "tracks" : [
+        {
+            "synthesizer": "",
+            "preset": "",
+            "effect_chain" : [
+                {
+                    "effect": "",
+                    "preset": ""
+                },
+                {
+                    "effect": "",
+                    "preset": ""
+                }
+            ]
+        },
+        {
+            "synthesizer": "",
+            "preset": "",
+            "effect_chain" : [
+                {
+                    "effect": "",
+                    "preset": ""
+                },
+                {
+                    "effect": "",
+                    "preset": ""
+                }
+            ]
+        }
+    ],
+    "master_effects" : [
+        {
+            "effect": "",
+            "preset": ""
+        }
+    ]
+}
